@@ -1,0 +1,36 @@
+Premier commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Jean-Francois Landry <JF.Landry@cgodin.qc.ca>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   labogit/.vs/labogit/v15/.suo
+#	new file:   labogit/.vs/labogit/v15/Server/sqlite3/db.lock
+#	new file:   labogit/.vs/labogit/v15/Server/sqlite3/storage.ide
+#	new file:   labogit/.vs/labogit/v15/Server/sqlite3/storage.ide-shm
+#	new file:   labogit/.vs/labogit/v15/Server/sqlite3/storage.ide-wal
+#	new file:   labogit/labogit.sln
+#	new file:   labogit/labogit/App.config
+#	new file:   labogit/labogit/Form1.Designer.cs
+#	new file:   labogit/labogit/Form1.cs
+#	new file:   labogit/labogit/Form1.resx
+#	new file:   labogit/labogit/Program.cs
+#	new file:   labogit/labogit/Properties/AssemblyInfo.cs
+#	new file:   labogit/labogit/Properties/Resources.Designer.cs
+#	new file:   labogit/labogit/Properties/Resources.resx
+#	new file:   labogit/labogit/Properties/Settings.Designer.cs
+#	new file:   labogit/labogit/Properties/Settings.settings
+#	new file:   labogit/labogit/labogit.csproj
+#	new file:   labogit/labogit/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+#	new file:   labogit/labogit/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   labogit/labogit/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   labogit/labogit/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   labogit/labogit/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#	new file:   labogit/labogit/obj/Debug/labogit.csproj.CoreCompileInputs.cache
+#	new file:   labogit/labogit/obj/Debug/labogit.csprojAssemblyReference.cache
+#
